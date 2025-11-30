@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning GIS
 
 - ⚡ Fun fact: i used to be in game developing
+- https://caramelpopcorn.tistory.com/
 
 <!---
 caramelpopcornKHU/caramelpopcornKHU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
