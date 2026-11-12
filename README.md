@@ -42,7 +42,7 @@
 | 프로젝트 | 한 줄 소개 | 링크 |
 |---|---|---|
 | 아이119 (2025.09~11, 6인 팀 팀장) | LX 공간정보 응용SW 과정 최종 프로젝트. 응급실 공지를 LLM으로 분류해 지도에 보여 주는 파이프라인을 설계 | [GitHub](https://github.com/caramelpopcornKHU/child119) · [Tistory](https://caramelpopcorn.tistory.com/2) |
-| 서울 건물 GEO-SOM 군집화 시도 (2025, 팀장) | 결과를 주장하지 않고, 코드 재검토에서 지적된 결함과 수정 방향을 정리한 회고형 프로젝트 | |
+| 서울 건물 GEO-SOM 군집화 시도 (2025, 팀장) | 결과를 주장하지 않고, 코드 재검토에서 지적된 결함과 수정 방향을 정리한 회고형 프로젝트 | | [GitHub](https://github.com/caramelpopcornKHU/GIS_Project) |
 | 서울시 노인수요시설 공간 분석 (2024, 개인) | Moran's I · LISA · 2SFCA, 대한지리학회 청년 학술대회 포스터 공모전 우수상 | |
 
 <div align="center">
