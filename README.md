@@ -1,77 +1,33 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&text=행복한%20세상을%20위하여&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-</div>
+# 공간 데이터 분석 · 지도 서비스 개발
 
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🚀 데이터의 점을 이어 가치를 만듭니다 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9; line-height: 1.6;">
-        <br>
-        공간 정보(GIS)와 데이터를 다루던 시각으로 세상을 봅니다.<br>
-        단순히 코드를 작성하는 것을 넘어, <b>기술이 사람을 향할 때 비로소 행복한 세상이 온다</b>고 믿습니다.<br>
-        <br>
-        <br>
-        깊이 있는 CS 지식 탐구와 끈기 있는 최적화를 통해<br>
-        <b>'세상에 필요한 기술'</b>을 구현하는 단단한 개발자가 되겠습니다.
-    </div> 
-</div>
+지리학을 전공하고, 데이터를 모아 분석하고 지도 위에 올리는 일을 해 왔습니다.<br>
+잘 된 부분과 못 한 부분을 함께 기록합니다. 프로젝트 6개의 자세한 정리는 [포트폴리오 블로그](https://caramelpopcornkhu.github.io)에 있습니다.
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align="center">
-        <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <br/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-        <br/>
-    </div>
-</div>
+## 대표 프로젝트
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🗂 Projects </h2>
-    <p>지리학을 전공하고, 데이터를 모아 분석하고 지도 위에 올리는 일을 해 왔습니다.<br>
-    잘 된 부분과 못 한 부분을 함께 기록합니다.<br>
-    프로젝트 6개의 자세한 정리는 <a href="https://caramelpopcornkhu.github.io">포트폴리오 블로그</a>에 있습니다.</p>
-</div>
-
-| 프로젝트 | 한 줄 소개 | 링크 |
+| 무엇을 풀었나 | 내가 한 일 | 링크 |
 |---|---|---|
-| 아이119 (2025.09~11, 6인 팀 팀장) | LX 공간정보 응용SW 과정 최종 프로젝트. 응급실 공지를 LLM으로 분류해 지도에 보여 주는 파이프라인을 설계 | [Blog](https://caramelpopcornkhu.github.io/projects/p06-child119/) · [GitHub](https://github.com/caramelpopcornKHU/child119) · [Tistory](https://caramelpopcorn.tistory.com/2) |
-| 서울 건물 GEO-SOM 군집화 시도 (2025, 팀장) | 결과를 주장하지 않고, 코드 재검토에서 지적된 결함과 수정 방향을 정리한 회고형 프로젝트 | [Blog](https://caramelpopcornkhu.github.io/projects/p05-geosom-retrospective/) · [GitHub](https://github.com/caramelpopcornKHU/GIS_Project) |
-| 서울시 노인수요시설 공간 분석 (2024, 개인) | Moran's I · LISA · 2SFCA, 대한지리학회 청년 학술대회 포스터 공모전 우수상 | [Blog](https://caramelpopcornkhu.github.io/projects/p02-seoul-senior-2sfca/) |
+| **아이119** (2025.09 – 2025.11)<br>응급실 앱의 '진료 중' 표시만 보고 갔다가 아이가 진료를 받지 못하는 일을 줄이려고, 응급실이 올린 공지를 AI로 읽어 아이를 받을 수 있는지 지도에 보여 주는 앱 | 6인 팀 팀장. 응급실 공지를 모아 AI로 판정하는 자동화, 지도 데이터 서버(GeoServer) 클라우드 배포, 안드로이드 길 안내 화면 | [Blog](https://caramelpopcornkhu.github.io/projects/p06-child119/) · [GitHub](https://github.com/caramelpopcornKHU/child119) · [Tistory](https://caramelpopcorn.tistory.com/2) |
+| **서울 건물 특성으로 동네 나누기** (2025.03 – 2025.06)<br>서울 건물 42만 동을 높이·층수·건물 나이 같은 물리적 특성만으로 묶어 보려던 수업 프로젝트를, 1년 남짓 뒤 코드부터 다시 확인한 회고 기록. 확인해 보니 결과는 건물 특성보다 위치로 나뉜 것에 가까웠습니다 | 3인 팀 팀장. 주제 제안, 코드 전체 작성·실행(AI 생성 코드 사용), 1년 남짓 뒤 결함 재현(회기동, 직접 실행)과 재검증(AI 도구 대리 실행 포함) | [Blog](https://caramelpopcornkhu.github.io/projects/p05-geosom-retrospective/) · [GitHub](https://github.com/caramelpopcornKHU/GIS_Project) |
+| **서울시 노인수요시설은 어디에 몰려 있나** (2024 봄학기)<br>경로당·병원·복지관 같은 노인 시설이 서울 어느 동네에 몰려 있고 어디가 비어 있는지를 지도와 통계로 확인한 연구 포스터. 대한지리학회 청년 학술대회 포스터 공모전 우수상 | 개인 프로젝트. 데이터 수집·정제·주소 좌표 변환(R), 공간통계 분석 4종(GeoDa·QGIS·ArcGIS), 포스터 작성 | [Blog](https://caramelpopcornkhu.github.io/projects/p02-seoul-senior-2sfca/) |
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 Study </h2>
-    <p>[학습]으로 표시한 저장소(<code>topic: study</code>)는 강의 실습·연습용입니다.<br>
-    Java / Spring MVC·MyBatis·JPA, React, TensorFlow, FastAPI 서빙 실험 등</p>
-</div>
+그 밖의 프로젝트: [원격탐사 토지피복분류](https://caramelpopcornkhu.github.io/projects/p01-landsat-landcover/) · [머신러닝 교통수단 선택 예측](https://caramelpopcornkhu.github.io/projects/p03-mobility-choice-ml/) · [드론 사진측량 3D 모델링·시각화](https://caramelpopcornkhu.github.io/projects/p04-drone-3d-modeling/)
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align="center">
-        <a href="https://caramelpopcornkhu.github.io">
-            <img src="https://img.shields.io/badge/Portfolio-1C1917?style=for-the-badge&logo=astro&logoColor=white">
-        </a>
-        <a href="https://caramelpopcorn.tistory.com/">
-            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-        </a>
-        <a href="mailto:hyungmin3739@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-        </a>
-    </div> 
-    
-</div>
+## 프로젝트에서 쓴 기술
 
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-    <div align="center">
-        <img src="https://raw.githubusercontent.com/caramelpopcornKHU/github-stats-transparent/output/generated/overview.svg" width="48%" />
-        <img src="https://raw.githubusercontent.com/caramelpopcornKHU/github-stats-transparent/output/generated/languages.svg" width="48%" />
-    </div> 
-</div>
+- **언어:** Python · R · Kotlin
+- **공간 분석·GIS:** QGIS · GeoDa · ArcGIS · Erdas Imagine · 2SFCA 접근성 분석 · GeoServer · iPhone LiDAR · Unity · 팀 공동: PostGIS · Pix4D · MeshLab
+- **데이터 분석·ML:** pandas · numpy · scikit-learn · K-Means · Gap Statistic · GEO-SOM · LLM API (Gemini)
+- **백엔드·인프라:** MongoDB · FastAPI · 클라우드 VM · cron · Google Colab · PostgreSQL(판정 결과 갱신)
+
+도구마다 어느 프로젝트에서 무엇을 했는지는 [블로그 Skills](https://caramelpopcornkhu.github.io/#skills)에 있습니다.
+
+## 학습
+
+수업과 강의 실습으로 배운 것입니다. 실습 저장소에는 `[학습]` 표시(`topic: study`)를 달았습니다.
+
+Java · C/C++ · Spring (Boot · MVC · MyBatis · JPA) · Vue · React · TensorFlow
+
+## Contact
+
+[Portfolio](https://caramelpopcornkhu.github.io) · [Tech blog (Tistory)](https://caramelpopcorn.tistory.com/) · [Email](mailto:hyungmin3739@gmail.com)
